@@ -1,5 +1,5 @@
 # Send email 
-This code is intended for checking and sending email
+This code is intended for checking and sending email.
 There are a few steps you need to take before you can send emails through Gmail with SMTP, 
 and it has to do with authentication. If you're using Gmail as the provider, 
 you'll need to tell Google to allow you to connect via SMTP, which is considered a "less secure" method.
